@@ -141,5 +141,6 @@ System.out.println("The Brand is " + brandName + " with ratings " + ratings);
 *  Create and set up GitHub account
 
 ---
+17th july
 
 
