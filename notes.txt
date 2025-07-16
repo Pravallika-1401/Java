@@ -1,0 +1,149 @@
+Absolutely—here’s your content reorganized and simplified in a **clear, structured, and fresh format**, while preserving all the details you shared:
+
+---
+
+# **15th July**
+
+---
+
+## 🎯 **Java Backend Roadmap**
+
+✅ **Core Java (Language Fundamentals)** – *60% focus*
+✅ **Advanced Java** – *20% focus*
+
+* Multi-Threading (MT)
+* Exception Handling (EH)
+* Collections Framework
+* SQL & Relational Databases (RDBMS)
+  ✅ **Spring Framework / Spring Boot** – *20% focus*
+* Building APIs
+* Microservices
+
+---
+
+## 🧠 **What is Java?**
+
+* **Programming Language**
+
+---
+
+## 🌐 **Language – Broader Meaning**
+
+* **Communication Types:**
+
+  * Verbal
+  * Written
+  * Gestures
+
+* **Constructed Languages & Regions:**
+
+  * South India, North India, etc.
+
+* **Human-to-Human Languages:**
+
+  * English
+  * Hindi
+  * Telugu
+  * etc.
+
+---
+
+## 💻 **Programming**
+
+* A **set of rules/instructions** to perform a **task**.
+
+---
+
+## 🧩 **Programming Language**
+
+* A system to write instructions for performing tasks.
+* Examples: **Java, JavaScript, Python, C**
+
+---
+
+## ⚖️ **Java vs Python**
+
+| Aspect                | Java                              | Python                           |
+| --------------------- | --------------------------------- | -------------------------------- |
+| **Performance**       | Very Fast (Compiled)              | Fast (Interpreted)               |
+| **Development Speed** | Slower (6 months for complex app) | Faster (6 weeks for similar app) |
+
+---
+
+## **Programming Paradigms**
+
+Ways you can approach programming problems:
+
+1. **Imperative Programming**
+
+   * *How to do it*
+   * Example: **Java**
+2. **Declarative Programming**
+
+   * *What to do*
+   * Example: **SQL**
+3. **High-Level vs Low-Level Languages**
+
+   * High-Level: Closer to human language
+   * Low-Level: Closer to machine language (e.g., binary)
+
+   ```
+   Binary Example:
+   01101010 01100001 01110110 01100001 ...
+   ```
+
+---
+
+## 👕 **Example: Myntra Application**
+
+```java
+String brandName = "The Indian Garage Co";
+float ratings = 4.2f;
+int price = 750;
+int size = 36;
+
+System.out.println("The Brand is " + brandName + " with ratings " + ratings);
+```
+
+* This represents **objects** (brand, price, size) displayed on the screen.
+
+---
+
+# **16th July**
+
+---
+
+## 🛠️ **Setup & Tools**
+
+1. **Install Java**
+
+   * Version: **Java 21 LTS**
+2. **Install VS Code**
+
+   * *IDE (Integrated Development Environment)*
+3. **Install Git**
+
+   * *Client to track and manage code versions*
+4. **Create a GitHub Account**
+
+   * *Platform to store and collaborate on code*
+5. **Understand Version Control**
+
+   * Also called:
+
+     * Source Control
+     * Revision Control
+   * Purpose: *Track changes in files (programs, websites, documents)*
+
+---
+
+✅ **Action Items:**
+
+*  Install Java 21
+*  Install VS Code
+*  Install Git on your laptop
+*  Create and set up GitHub account
+
+---
+
+
